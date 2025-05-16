@@ -1,0 +1,7 @@
+tensorflow==2.10.1
+numpy==1.24.4
+matplotlib
+pillow
+tqdm
+requests
+scikit-learn

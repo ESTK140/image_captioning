@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But keep Python files
+!*.py
+!requirements.txt
+!README.md
+# Also keep .gitignore itself
+!.gitignore
