@@ -27,3 +27,6 @@ image_captioning/
 ├── Flickr8k_text.zip        # Caption dataset (auto-downloaded)
 ├── Flicker8k_Dataset/       # Extracted image folder
 ├── Flickr8k_text/           # Extracted caption folder
+├── Model.H
+
+model : https://drive.google.com/file/d/1yPGFZm64XxCsovgx6-OQxiKUaBirb4aF/view?usp=sharing
